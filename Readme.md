@@ -1,0 +1,1 @@
+Utilização das tags semânticas como o main,section, article, header, nav e footer.
